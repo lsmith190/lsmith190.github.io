@@ -1,0 +1,77 @@
+html {
+    background: rgb(218, 211, 213);
+}
+
+.image {
+    float: right;
+    border-radius: 30%
+}
+
+header {
+    background: rgb(238, 200, 216);
+    margin: 0 0 0 0;
+    padding: 30px;
+}
+
+a {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.quote {
+    font-family: cursive;
+    height: 100px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.name {
+    font-size: 50px;
+    font-family: fahkwang;
+    text-align: center;
+}
+
+footer {
+    background: rgb(238, 200, 216);
+}
+
+.github {
+    border-radius: 50%;
+}
+
+.linkedin {
+    border-radius: 50%;
+}
+
+.nav-bar {
+    padding: 30px;
+}
+
+.aboutme,
+.featuredwork {
+    height: 100px;
+    width: 400px;
+    margin: 0 auto;
+    padding: 0 0 50px 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.aboutmetitle,
+.featuredworktitle {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sec1 {
+    border: black;
+}
+
+.aboutmetitle {
+    padding: 100px 0 0 0;
+}
+
+.featuredworktitle {
+    padding: 100px 0 0 0;
+}
